@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Karmnik dla lisów`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Michał Nielipiński`,
+      summary: `Programista, czasem kucharz.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Lista przepisów, którymi się żywimy z moją dziewczyną.`,
+    siteUrl: `https://stupefied-bhabha-3b7e16.netlify.app/`,
     social: {
       twitter: `kylemathews`,
     },
