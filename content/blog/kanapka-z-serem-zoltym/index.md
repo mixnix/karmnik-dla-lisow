@@ -6,7 +6,6 @@ description: "Przepis na kanapki z serem żółtym i pomidorem"
 
 Składniki:
 
-Główne:
 * chleb/bułka
 * ser żółty
 * majonez (najlepiej winary lub ręcznie robiony)
